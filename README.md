@@ -1,10 +1,10 @@
 # Hi Geek!! 👋
 
 
-- 💻 I'm [Atul], graduated from IIT Guwahati.
+- 💻 I'm [Atul Khadoliya], graduated from IIT Guwahati.
 - 🌱 I’m currently exploring software development and learning new skills.
 - ⚡ Hobbies: History, Politics, Movies, Anime
-- 📫 You can contact me at [your-email@gmail.com](mailto:atulkhadoliya10@gmail.com)
+- 📫 You can contact me at [atulkhadoliya10@gmail.com](mailto:atulkhadoliya10@gmail.com)
 
 ## 🌐 My Social Media Handles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
