@@ -8,7 +8,7 @@
 
 ## 🌐 My Social Media Handles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
-https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
+https://www.linkedin.com/in/atul-khadoliya-2b063a1a6/
 )
 ## 🔥 My Coding Profiles
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge)](https://codeforces.com/profile/yourprofile)
