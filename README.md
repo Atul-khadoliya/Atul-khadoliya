@@ -14,6 +14,8 @@ https://www.linkedin.com/in/atul-khadoliya-2b063a1a6/
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge)](
 https://codeforces.com/profile/ayu1
 )
-[![interviewbit](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge)](https://www.codechef.com/users/yourprofile)
+[![interviewbit](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge)](
+https://www.interviewbit.com/profile/atul-khadoliya/
+)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge)](https://leetcode.com/yourprofile)
 
