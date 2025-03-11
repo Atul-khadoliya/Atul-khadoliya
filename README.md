@@ -17,5 +17,7 @@ https://codeforces.com/profile/ayu1
 [![interviewbit](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge)](
 https://www.interviewbit.com/profile/atul-khadoliya/
 )
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge)](https://leetcode.com/yourprofile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge)](
+https://leetcode.com/u/Atulkhadoliya/
+)
 
