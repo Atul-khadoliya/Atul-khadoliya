@@ -15,7 +15,8 @@ https://www.linkedin.com/in/atul-khadoliya-2b063a1a6/
 https://codeforces.com/profile/ayu1
 )
 [![interviewbit](
-https://img.shields.io/badge/InterviewBit-1F8ACB?style=for-the-badge&logo=interviewbit&logoColor=white
+https://img.shields.io/badge/InterviewBit-8B4513?style=for-the-badge&logo=interviewbit&logoColor=white
+
 )](
 https://www.interviewbit.com/profile/atul-khadoliya/
 )
