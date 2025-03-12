@@ -1,4 +1,4 @@
-# Hi Geek!! 👋
+# Hi Geeks!! 👋
 
 
 - 💻 I'm [Atul Khadoliya], graduated from IIT Guwahati.
